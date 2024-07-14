@@ -116,6 +116,9 @@ h4{
 .about-text{
 	width: 550px;
 }
+.about img{
+	height: auto;
+	width: 430px;
 .main{
 	width: 1130px;
 	max-width: 95%;
