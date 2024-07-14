@@ -111,7 +111,7 @@ h4{
 }
 .about img{
 	height: auto;
-	width: 430px;
+	width: 630px;
 }
 .about-text{
 	width: 550px;
@@ -121,7 +121,7 @@ h4{
 	max-width: 95%;
 	margin: 0 auto;
 	display: flex;
-	align-items: center;
+	align-items: left;
 	justify-content: space-around;
 }
 .about-text h2{
